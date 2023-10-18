@@ -4,4 +4,7 @@
 
 #### 1. Aprakstīt spēli
 #### 2. Spēles loģika
-#### 3. Un t.t.
+
+Dators nejaušī ģenerē vienu skaitli no 1 lidz 100.Tālaāk, piedāvā spēlētājam uzminēt to skaitli, Un t.t
+##
+## 3. Un t.t.
